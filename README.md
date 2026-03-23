@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&animation=fadeIn" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kaushal+K+%F0%9F%91%8B;CS+Third+Year+%7C+Builder+%7C+Hacker;10%2B+Hackathons+%7C+Open+Source+Contributor;Turning+ideas+into+real+things+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -10,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-k-610946290/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaushalk123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushalk123)
-![Profile Views](https://komarev.com/ghpvc/?username=kaushalk123&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
