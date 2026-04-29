@@ -96,23 +96,6 @@
 
 </div>
 
----
-
-## 🏆 Hackathon Journey
-
-> 10+ hackathons. Sleepless nights. Terrible coffee. Zero regrets.
-
-```
-2024 ████████████████████ 10+ hackathons competed
-         ↑ pitches  ↑ prototypes  ↑ lessons learned
-```
-
-- 🥇 Built and shipped projects under 24–48 hour deadlines
-- 🤝 Collaborated with cross-functional teams under pressure
-- 💡 Turned ideas into working demos — repeatedly
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
