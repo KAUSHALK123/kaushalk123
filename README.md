@@ -59,16 +59,6 @@
 
 ---
 
-## 🌍 Open Source Contributions
-
-> I believe in giving back. Every fix matters, no matter how small.
-
-![Contributions](https://img.shields.io/badge/Open_Source_Contributions-3-58A6FF?style=for-the-badge&logo=github&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons_Attended-10+-FF6C37?style=for-the-badge&logo=devpost&logoColor=white)
-![PRs](https://img.shields.io/badge/Pull_Requests-3_Merged-238636?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
