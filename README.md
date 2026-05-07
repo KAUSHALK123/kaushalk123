@@ -59,18 +59,6 @@
 
 ---
 
-## 🚀 Projects
-
-> 🔨 Always building. Here are a few things I've shipped:
-
-| Project | Description | Tech |
-|---|---|---|
-| 🧠 **RAG System** | Local document Q&A using retrieval-augmented generation | Python, LlamaIndex, ChromaDB |
-| 🎮 **[Add your project]** | [One line description] | React, Node.js |
-| 🌐 **[Add your project]** | [One line description] | Next.js, MongoDB |
-
----
-
 ## 🌍 Open Source Contributions
 
 > I believe in giving back. Every fix matters, no matter how small.
